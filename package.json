@@ -9,15 +9,22 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "dotenv": "^17.2.2",
+    "mssql": "^11.0.1",
+    "next": "15.5.3",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.5.3"
+    "sass": "^1.93.1",
+    "sweetalert2": "^11.23.0",
+    "sweetalert2-react-content": "^5.1.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
+    "@eslint/eslintrc": "^3",
+    "autoprefixer": "^10.4.16",
     "eslint": "^9",
     "eslint-config-next": "15.5.3",
-    "@eslint/eslintrc": "^3"
+    "postcss": "^8.4.32",
+    "postcss-import": "^16.1.1",
+    "tailwindcss": "^3.4.0"
   }
 }
