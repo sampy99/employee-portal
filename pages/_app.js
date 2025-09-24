@@ -1,4 +1,3 @@
-// pages/_app.js
 import 'sweetalert2/src/sweetalert2.scss';
 import '../styles/globals.css';
 
