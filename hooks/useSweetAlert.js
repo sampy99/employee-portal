@@ -1,4 +1,3 @@
-// hooks/useSweetAlert.js
 import Swal from 'sweetalert2';
 
 export const useSweetAlert = () => {
