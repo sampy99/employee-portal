@@ -1,4 +1,3 @@
-// pages/api/employees/index.js
 import { getConnection, sql } from '../../../lib/database';
 
 // Simple API key middleware (optional)
